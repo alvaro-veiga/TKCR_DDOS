@@ -6,7 +6,7 @@ Observação: este script deixa rastros dos pacotes enviados.
 
 ## Pré-requisitos
 
-Certifique-se de ter o Pytho 2 instalados em sua máquina. Para obter instruções de instalação, consulte a [documentação oficial do Flutter](https://www.python.org/downloads/release/python-2718/).
+Certifique-se de ter o Python 2 instalados em sua máquina. Para obter instruções de instalação, consulte a [documentação oficial do Flutter](https://www.python.org/downloads/release/python-2718/).
 
 ## Dependencias
 
